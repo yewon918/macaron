@@ -1,5 +1,5 @@
-//±×³É ÇÑ¹ø Å×½ºÆ® ÇØºÃ¾î¿ä
+//ê·¸ëƒ¥ í•œë²ˆ í…ŒìŠ¤íŠ¸ í•´ë´¤ì–´ìš”
 #include <stdio.h>
 void main() {
-	printf("hello world");
+	printf("Hello, I'm testing this repository :D");
 }
