@@ -11,6 +11,9 @@ repository for OpenSource project - 청주 마카롱 지도
 
 역할분담
 
-DB - 오준호
-UI - 김예원
+DB - 오준호 /
+UI - 김예원 /
 문서화 - 황슬비
+
+
+목표 - 기어다니는 것
