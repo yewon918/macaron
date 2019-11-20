@@ -7,7 +7,7 @@ repository for OpenSource project - 청주 마카롱 지도
 였다가 바꿨음
 
 
-<<뜨죽국;뜨거워 죽어도 국밥>>
+<<뜨죽국; 뜨거워 죽어도 국밥>>
 
 역할분담
 
